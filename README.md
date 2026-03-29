@@ -93,7 +93,7 @@ Predicted Weather: Sunny
 
 ##  Author
 
-Akshat Bajpai
+Adyasha Mohanty
 
 ---
 
